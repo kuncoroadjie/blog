@@ -1,0 +1,7 @@
+[submodule "kerah-hitam/themes/hermit"]
+	path = kerah-hitam/themes/hermit
+	url = https://github.com/Track3/hermit.git
+[submodule "kerah-hitam/public"]
+	path = kerah-hitam/public
+	url = https://github.com/kuncoroadjie/kerah-hitam.github.io.git
+	branch = main
