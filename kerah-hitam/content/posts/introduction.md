@@ -1,8 +1,7 @@
 ---
 title: "Introduction"
 date: 2022-08-15T19:35:00+07:00
-images:
-	- https://picsum.photos/1024/768/?random
+draft: false
 ---
 
 Hello world, My name is Kuncoro Adjie.
